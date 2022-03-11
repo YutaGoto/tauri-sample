@@ -41,7 +41,6 @@
         "entitlements": null
       },
       "windows": {
-        "webviewFixedRuntimePath": "./Microsoft.WebView2.FixedVersionRuntime.98.0.1108.50.x64/",
         "certificateThumbprint": null,
         "digestAlgorithm": "sha256",
         "timestampUrl": ""
